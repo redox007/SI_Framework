@@ -1,0 +1,1 @@
+<button class="btn btn-primary noty hide" id="noty" data-noty-options='{"text":"This is an error notification","layout":"topRight","type":"error"}'><i class="halflings-icon white bell"></i> Top Right</button>
