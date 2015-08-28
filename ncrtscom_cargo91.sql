@@ -1,10 +1,10 @@
--- Adminer 3.7.1 MySQL dump
-
-SET NAMES utf8;
-SET foreign_key_checks = 0;
-SET time_zone = '-06:00';
-SET sql_mode = 'NO_AUTO_VALUE_ON_ZERO';
-
+-- Adminer 3.7.1 MySQL dump
+
+SET NAMES utf8;
+SET foreign_key_checks = 0;
+SET time_zone = '-06:00';
+SET sql_mode = 'NO_AUTO_VALUE_ON_ZERO';
+
 DROP TABLE IF EXISTS `cgo_access_token`;
 CREATE TABLE `cgo_access_token` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
